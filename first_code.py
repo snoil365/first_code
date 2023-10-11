@@ -7,4 +7,9 @@ for i in range(1, 11):  # 1부터 10까지의 숫자를 반복합니다.
 
 print("1부터 10까지의 합은:", total)  # 결과를 출력합니다. 
 
+
 print("Developer B")
+=======
+def clac_area(x, y):
+    result = x * y
+    return result
